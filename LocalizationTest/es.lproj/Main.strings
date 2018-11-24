@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Most distibuted fruits"; ObjectID = "Byf-Sk-TJR"; */
+"Byf-Sk-TJR.text" = "Las frutas mas comunes";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "F3N-nm-Chp"; */
+"F3N-nm-Chp.title" = "Añadir";
+
+/* Class = "UINavigationItem"; title = "Fruits List"; ObjectID = "lMS-aA-2ED"; */
+"lMS-aA-2ED.title" = "Lista de frutas";

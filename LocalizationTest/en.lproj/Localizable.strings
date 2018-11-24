@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationTest
+
+  Created by Ruslan Akberov on 24/11/2018.
+  Copyright © 2018 Ruslan Akberov. All rights reserved.
+*/
+
+Apple = "Apple 🍎";
+Orange = "Orange 🍊";
+Grapes = "Grapes 🍇";
+Peach = "Peach 🍑";
